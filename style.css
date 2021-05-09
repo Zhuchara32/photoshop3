@@ -1,0 +1,35 @@
+body {
+    background-color: #121116;    
+    text-align: center;
+}
+.logo {
+    margin: 50px auto;
+}
+.we-are-social {
+    color: #fefbfc;
+    border-bottom: 1px solid white;
+}
+
+
+ul {
+    list-style-type: none;
+}
+.social-networks {
+    display: inline-block;    
+    width: 25%;
+    overflow: hidden;
+
+}
+.facebook, .tweter, .google, .dribble {
+    float: left;
+    padding: 5px;
+}
+.facebook {
+    padding-left: 0;
+}
+.footer {
+    color: #c0c0c1;
+}
+.footer-blu {
+    color: #19c8fa;
+}
